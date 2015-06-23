@@ -1,0 +1,14 @@
+{
+  "name": "puppet-grandperspective",
+  "version": "0.0.1",
+  "author": "akerl",
+  "summary": "Install grandperspective",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-grandperspective",
+  "project_page": "https://github.com/halyard/puppet-grandperspective",
+  "issues_url": "https://github.com/halyard/puppet-grandperspective/issues",
+  "dependencies": [
+  ],
+  "operatingsystem_support": [
+  ]
+}
