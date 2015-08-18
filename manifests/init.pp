@@ -9,7 +9,7 @@
 #
 class grandperspective (
 ) {
-  package { 'grandperspective-halyard':
+  package { 'grandperspective':
     provider => 'brewcask'
   }
 }
