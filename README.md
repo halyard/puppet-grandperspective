@@ -4,7 +4,7 @@ grandperspective
 [![Puppet Forge](https://img.shields.io/puppetforge/v/halyard/grandperspective.svg)](https://forge.puppetlabs.com/halyard/grandperspective)
 [![Dependency Status](https://img.shields.io/gemnasium/halyard/puppet-grandperspective.svg)](https://gemnasium.com/halyard/puppet-grandperspective)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-grandperspective.svg)](https://circleci.com/gh/halyard/puppet-grandperspective)
+[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-grandperspective/master.svg)](https://circleci.com/gh/halyard/puppet-grandperspective)
 
 Install GrandPerspective
 
